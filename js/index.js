@@ -30,7 +30,7 @@ var quote =[
    },
   {
 			"quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-     "author": "lim Kay"
+     "author": "Lim Kay"
   },
   {
   "quote":"A room without books is like a body without a soul.",
