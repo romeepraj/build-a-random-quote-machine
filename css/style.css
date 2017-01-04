@@ -1,0 +1,44 @@
+body{
+  background:#333366;
+  color:#fff;
+}
+.container{
+  margin-top:80px;
+}
+.quote{
+  background:#fff;
+  color:#000;
+  width:600px;
+  padding:20px;
+  border-radius:20px;
+  margin:0 auto;
+ 
+}
+.quote-box{
+   min-height:100px;
+  height:auto;
+}
+.btn{
+  background:#333366;
+  color:#fff;
+}
+.btn:hover{
+  color:#fff;
+}
+.creater{
+  padding:20px 0px;
+}
+.button{
+  background:#333366;
+  padding:6px 10px;
+  border-radius:5px;
+  color:#fff;
+ 
+}
+.pad{
+  padding:10px 0px 0px;
+}
+.imptxt{
+  color:#333366;
+  font-weight:bold;
+}
